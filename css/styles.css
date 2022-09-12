@@ -1,0 +1,143 @@
+body {
+    font-family: arial, sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8%;
+}
+
+.top-container {
+    margin-left: 72rem;
+    margin-top: 1rem;
+    padding: 0;
+
+
+}
+
+.table {
+    padding-right: 2rem;
+    font-family: arial, sans-serif;
+    font-weight: lighter;
+    color: #70757a;
+    font-size: 14px;
+}
+
+.apps-button {
+    width: 15px;
+    height: 15px;
+    padding-right: 2rem;
+}
+
+.button {
+    background-color: #1a73e8;
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    margin-right: 8px;
+    min-width: 96px;
+    padding: 9px 23px;
+    text-align: center;
+    border-style: hidden;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.search-box {
+    background: transparent;
+    height: 34px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-color: rgb(246, 243, 243);
+    border-style: ridge;
+    border-radius: 17px;
+    padding-left: 10px;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    position: relative;
+
+}
+
+.search {
+    position: absolute;
+    margin-left: 29rem;
+    margin-top: 0.75rem;
+
+}
+
+.bottom-container {
+    margin-left: 580px;
+}
+
+.submit-box {
+    margin-top: 10px;
+    margin-right: 5px;
+    background-color: rgb(249, 250, 250);
+    border-style: hidden;
+    margin-top: 20px;
+    padding: 10px 20px;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    border-radius: 5px;
+
+}
+
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    background-color: #f2f2f2;
+}
+
+.footerli {
+    display: inline;
+}
+
+.footerli a {
+    display: inline-block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
+
+
+.footerli2 {
+    float: right;
+    display: inline;
+
+}
+
+.footerli2 a {
+
+    display: inline-block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
